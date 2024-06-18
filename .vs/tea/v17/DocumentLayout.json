@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ann\\source\\repos\\tea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|c:\\users\\ann\\source\\repos\\tea\\tea\\teacrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|solutionrelative:tea\\teacrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|c:\\users\\ann\\source\\repos\\tea\\tea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|solutionrelative:tea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|c:\\users\\ann\\source\\repos\\tea\\tea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|solutionrelative:tea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|C:\\Users\\ann\\source\\repos\\tea\\tea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1F90CF5-33AD-414F-9AAC-46877EB83EE1}|tea\\tea.csproj|solutionrelative:tea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\tea\\tea\\Program.cs",
+              "RelativeDocumentMoniker": "tea\\Program.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\tea\\tea\\Program.cs",
+              "RelativeToolTip": "tea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:08:47.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TEACrypter.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\tea\\tea\\TEACrypter.cs",
+              "RelativeDocumentMoniker": "tea\\TEACrypter.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\tea\\tea\\TEACrypter.cs",
+              "RelativeToolTip": "tea\\TEACrypter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:15:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\tea\\tea\\Form1.cs",
+              "RelativeDocumentMoniker": "tea\\Form1.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\tea\\tea\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "tea\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:27:37.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\tea\\tea\\Form1.cs",
+              "RelativeDocumentMoniker": "tea\\Form1.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\tea\\tea\\Form1.cs",
+              "RelativeToolTip": "tea\\Form1.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:36:09.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

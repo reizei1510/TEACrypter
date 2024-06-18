@@ -1,0 +1,16 @@
+C:\Users\ann\source\repos\tea\tea\bin\Debug\net8.0-windows\tea.exe
+C:\Users\ann\source\repos\tea\tea\bin\Debug\net8.0-windows\tea.deps.json
+C:\Users\ann\source\repos\tea\tea\bin\Debug\net8.0-windows\tea.runtimeconfig.json
+C:\Users\ann\source\repos\tea\tea\bin\Debug\net8.0-windows\tea.dll
+C:\Users\ann\source\repos\tea\tea\bin\Debug\net8.0-windows\tea.pdb
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.Form1.resources
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.csproj.GenerateResource.cache
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.AssemblyInfoInputs.cache
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.AssemblyInfo.cs
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.csproj.CoreCompileInputs.cache
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.dll
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\refint\tea.dll
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.pdb
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\tea.genruntimeconfig.cache
+C:\Users\ann\source\repos\tea\tea\obj\Debug\net8.0-windows\ref\tea.dll
